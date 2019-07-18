@@ -6,8 +6,8 @@ permalink: /cv/
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
-<aknesil@kth.se>  
-<https://canaknesil.github.io>
+<aknesil@kth.se>   
+<https://canaknesil.github.io>   
 
 ## EDUCATION
 
