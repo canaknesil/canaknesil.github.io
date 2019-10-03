@@ -114,7 +114,7 @@ Section Leader
 ## PROJECTS
 
 - Single-Event Upset Detector (SEUD) Experiment in [the Miniature
-  Student Satellite (MIST)](https://mistsatellite.space/basic-facts/)
+  Student Satellite (MIST)](https://mistsatellite.space/)
   *(MSc. Embedded Systems final project)*
 - Robust Header Compression (RoHC) for Profile 6 (TCP/IP) *(Ericsson internship)*
 - Interfacing C++ high-performance radio simulation libraries from
