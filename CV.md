@@ -40,6 +40,11 @@ Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for GPUs", 5. Ulus
 
 ### Professional Experience
 
+**Internship R&D** *September 2019 – Present*  
+[Telefonaktiebolaget LM Ericsson](https://www.ericsson.com/en)  
+Stockholm, Sweden  
+Intern in High Performance Broadband/Radio Software Department
+
 **Summer Internship R&D** *June 2019 – July 2019*  
 [Telefonaktiebolaget LM Ericsson](https://www.ericsson.com/en)  
 Stockholm, Sweden  
@@ -101,13 +106,19 @@ Section Leader
 
 #### Other areas I have experimented
 
+- Networking
 - Mobile application development for IOS (Objective – C) and Android (Java)
 - Web development with HTML5, JavaScript, CSS, PHP, and Java EE
 - Database design with SQL and MongoDB
 
 ## PROJECTS
 
-- Interfacing C++ high-performance radio simulation libraries from Julia, using Cxx.jl *(Ericsson internship)*
+- Single-Event Upset Detector (SEUD) Experiment in [the Miniature
+  Student Satellite (MIST)](https://mistsatellite.space/basic-facts/)
+  *(MSc. Embedded Systems final project)*
+- Robust Header Compression (RoHC) for Profile 6 (TCP/IP) *(Ericsson internship)*
+- Interfacing C++ high-performance radio simulation libraries from
+  Julia, using Cxx.jl *(Ericsson summer internship)*
 - [CUDA Compilation Support for Snowflake DSL](https://github.com/canaknesil/snowflake-with-cuda) *(Computer Engineering Final Project)*
 - [Limon](https://github.com/canaknesil/limon): A simple and powerful general purpose programming language *(Independent)*
 - Programable clock generator chip, RF receiver chip, and RF transmitter chip programming via BeagleBone Black *(CTech internship)*
@@ -130,7 +141,8 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 ## CONFERENCES & WORKSHOPS
 
-- [FPGAworld Conference 2018](http://www.fpgaworld.com/ ) at STOCKHOLM.
+- [FPGAworld Conference 2019](http://www.fpgaworld.com/) at STOCKHOLM.
+- [FPGAworld Conference 2018](http://www.fpgaworld.com/) at STOCKHOLM.
 - [National High Performance Computing Conference](http://www.basarim.org.tr) (Ulusal Yüksek Başarımlı Hesaplama Konferansı) at Yıldız Technical University, ISTANBUL. Presented a workshop paper. *(2017)*
 
 - Training named "Neuroscience for Leadership" at Kariyer.Net *(2017)*
