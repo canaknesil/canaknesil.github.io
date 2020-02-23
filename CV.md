@@ -40,7 +40,7 @@ Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for GPUs", 5. Ulus
 
 ### Professional Experience
 
-**Internship R&D** *September 2019 – Present*  
+**Internship R&D** *September 2019 – November 2019*  
 [Telefonaktiebolaget LM Ericsson](https://www.ericsson.com/en)  
 Stockholm, Sweden  
 Intern in High Performance Broadband/Radio Software Department
@@ -87,13 +87,15 @@ Section Leader
 
 **French:** DELF B2 Overall: 57.5/100
 
+**Swedish:** Elementry level
+
 ### Computer & Electronics Engineering
 
 #### Programming languages and areas at which I have a good experience
 
 - C, C++, Java, Scheme, Common Lisp, Julia, Matlab, Python, VHDL, Systemverilog
 - Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
-- Hardware design with VHDL, hardware verification with Systemverilog
+- Hardware design with VHDL, hardware verification with Systemverilog (using both Xilinx and Intel (Altera) tools)
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
 - Linux, in general (Bash, kernel, kernel modules, services, device tree, developing drivers and applications, shared libraries etc.)
@@ -106,6 +108,7 @@ Section Leader
 
 #### Other areas I have experimented
 
+- Image analysis and computer vision
 - Networking
 - Mobile application development for IOS (Objective – C) and Android (Java)
 - Web development with HTML5, JavaScript, CSS, PHP, and Java EE
@@ -113,6 +116,8 @@ Section Leader
 
 ## PROJECTS
 
+- Implementation, statistical property analysis, and security evaluation of Physically Unclonable Functions (PUFs) on FPGAs
+  *(MSc. Embedded Systems thesis, under the supervision of Elena Dubrova)*
 - Single-Event Upset Detector (SEUD) Experiment in [the Miniature
   Student Satellite (MIST)](https://mistsatellite.space/)
   *(MSc. Embedded Systems final project)*
