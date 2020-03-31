@@ -71,14 +71,7 @@ limon&gt; [do_range 0 4 println]
 1
 2
 3
-#&lt;null&gt;</code></pre><p><code>do_range</code> procedure defined above is an iterative procedure. The recursive call to itself is a tail call, which means there is nothing to do after the call except returning the evaluated value. </p><p>In Limon, recursive calls does not grow the stack, iterative calls neither grows the stack, nor grows the control context. This means <code>do_range</code> procedure can be invoked with infinite larger number of recursion with constant memory usage.</p><pre><code class="language-none">limon&gt; [do_range 0 40000 @(i) { 
-          (i % 10000 == 0 ? [println i])
-       }]
-0
-10000
-20000
-30000
-#&lt;null&gt;</code></pre><p>This is achieved by the trampolined continuation passing interpreter. </p><h2 id="Exception-Handling-1"><a class="docs-heading-anchor" href="#Exception-Handling-1">Exception Handling</a><a class="docs-heading-anchor-permalink" href="#Exception-Handling-1" title="Permalink"></a></h2><p>Limon exceptions can be raised with <code>raise</code> keyword. They can be caught by try-catch language structure.</p><pre><code class="language-none">limon&gt; def divide = @(n1 n2) {
+#&lt;null&gt;</code></pre><p>Check <a href="../procedures/#Procedures-1">Procedures</a> for more details on performance and memory usage.</p><h2 id="Exception-Handling-1"><a class="docs-heading-anchor" href="#Exception-Handling-1">Exception Handling</a><a class="docs-heading-anchor-permalink" href="#Exception-Handling-1" title="Permalink"></a></h2><p>Limon exceptions can be raised with <code>raise</code> keyword. They can be caught by try-catch language structure.</p><pre><code class="language-none">limon&gt; def divide = @(n1 n2) {
          (n2 == 0 ? [raise :division_by_zero_exception]
           : n1 / n2)
        }
@@ -127,4 +120,4 @@ limon&gt; is_a_defined = try {
 #&lt;true&gt;
 
 limon&gt; is_a_defined
-#&lt;true&gt;</code></pre></article><nav class="docs-footer"><a class="docs-footer-prevpage" href="../math-and-operators/">« Math and Operators</a><a class="docs-footer-nextpage" href="../procedures/">Procedures »</a></nav></div><div class="modal" id="documenter-settings"><div class="modal-background"></div><div class="modal-card"><header class="modal-card-head"><p class="modal-card-title">Settings</p><button class="delete"></button></header><section class="modal-card-body"><p><label class="label">Theme</label><div class="select"><select id="documenter-themepicker"><option value="documenter-light">documenter-light</option><option value="documenter-dark">documenter-dark</option></select></div></p><hr/><p>This document was generated with <a href="https://github.com/JuliaDocs/Documenter.jl">Documenter.jl</a> on <span class="colophon-date" title="Tuesday 31 March 2020 01:51">Tuesday 31 March 2020</span>. Using Julia version 1.4.0.</p></section><footer class="modal-card-foot"></footer></div></div></div></body></html>
+#&lt;true&gt;</code></pre></article><nav class="docs-footer"><a class="docs-footer-prevpage" href="../math-and-operators/">« Math and Operators</a><a class="docs-footer-nextpage" href="../procedures/">Procedures »</a></nav></div><div class="modal" id="documenter-settings"><div class="modal-background"></div><div class="modal-card"><header class="modal-card-head"><p class="modal-card-title">Settings</p><button class="delete"></button></header><section class="modal-card-body"><p><label class="label">Theme</label><div class="select"><select id="documenter-themepicker"><option value="documenter-light">documenter-light</option><option value="documenter-dark">documenter-dark</option></select></div></p><hr/><p>This document was generated with <a href="https://github.com/JuliaDocs/Documenter.jl">Documenter.jl</a> on <span class="colophon-date" title="Tuesday 31 March 2020 18:58">Tuesday 31 March 2020</span>. Using Julia version 1.4.0.</p></section><footer class="modal-card-foot"></footer></div></div></div></body></html>
