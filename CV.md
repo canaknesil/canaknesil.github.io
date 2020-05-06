@@ -4,16 +4,16 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 23 February 2020.
+Updated on 6 May 2020.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
 <aknesil@kth.se>   
-[can.aknesil.com](https://can.aknesil.com)  
+[www.canaknesil.com](https://www.canaknesil.com)  
 
 ## EDUCATION
 
-**KTH Royal Institute of Technology** *2018 – Present*  
+**KTH Royal Institute of Technology** *2018 – 2020 (expected)*  
 **School of Electrical Engineering and Computer Science**, STOCKHOLM  
 **Master of Science in Embedded Systems**
 
@@ -97,16 +97,18 @@ Section Leader
 
 - C, C++, Java, Scheme, Common Lisp, Julia, Matlab, Python, VHDL, Systemverilog
 - Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
-- Hardware design with VHDL, hardware verification with Systemverilog (using both Xilinx and Intel (Altera) tools)
+- FPGA design with VHDL, hardware verification with Systemverilog
+  (using both Xilinx and Intel (Altera) design tools)
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
-- Linux, in general (Bash, kernel, kernel modules, services, device tree, developing drivers and applications, shared libraries etc.)
+- Proficiency in Linux (Bash, kernel, kernel modules, services, device
+  tree, driver and application development, shared libraries etc.)
 - Compiler and interpreter design with Lex (Lexical Analyzer) and Yacc (Parser)
 - Embedded software development directly on processor in AVR Assembly, MIPS Assembly, and C
-- Git (Version Control System)
-- Make (Build Automation Tool)
+- Version control with Git and Subversion
+- Build automation with GNU Make
 - Proficiency in Office Programs
-- PSpice
+- Electronic circuit simulation with PSpice and LTspice
 
 #### Other areas I have experimented
 
@@ -118,7 +120,7 @@ Section Leader
 
 ## PROJECTS
 
-- Implementation, statistical property analysis, and security evaluation of Physically Unclonable Functions (PUFs) on FPGAs
+- Implementation and statistical analysis of Physically Unclonable Functions (PUFs) on FPGAs
   *(MSc. Embedded Systems thesis, under the supervision of Elena Dubrova)*
 - Single-Event Upset Detector (SEUD) Experiment in [the Miniature
   Student Satellite (MIST)](https://mistsatellite.space/)
@@ -163,7 +165,7 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 ## HOBBIES & ACTIVITIES
 
-- Music: Piano and Oud (A Classical Turkish Music Instrument)
+- Music: Piano and Oud (A Classical Turkish Musical Instrument)
   - London College of Music Piano Examinations, Grade 5
   - Koç Orchestra, piano and keyboard, during 3 years. Performed 7 concerts
   - Water Clock (band), keyboard, during 1 year. Performed 2 concert
