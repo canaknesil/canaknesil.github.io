@@ -15,7 +15,7 @@ Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM
 
 **KTH Royal Institute of Technology** *2018 – 2020 (expected)*  
 **School of Electrical Engineering and Computer Science**, STOCKHOLM  
-**Master of Science in Embedded Systems**
+**Master of Science in Embedded Systems (Platform track)**
 
 **Koç University** *2013 – 2018*  
 **College of Engineering**, ISTANBUL  
