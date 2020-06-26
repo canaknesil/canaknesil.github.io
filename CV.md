@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 6 May 2020.
+Updated on 26 June 2020.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
