@@ -13,7 +13,7 @@ Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM
 
 ## EDUCATION
 
-**KTH Royal Institute of Technology** *2018 – 2020 (expected)*  
+**KTH Royal Institute of Technology** *2018 – 2020*  
 **School of Electrical Engineering and Computer Science**, STOCKHOLM  
 **Master of Science in Embedded Systems (Platform track)**
 
@@ -41,6 +41,11 @@ Lab Member
 Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for GPUs", 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, September, 2017
 
 ### Professional Experience
+
+**Employment** *June 2020 – Present*  
+[KTH (Royal Institute of Technology)](https://www.kth.se/en)  
+Stockholm, Sweden  
+Research Engineer in the School of Electrical Engineering and Computer Science
 
 **Internship R&D** *September 2019 – November 2019*  
 [Telefonaktiebolaget LM Ericsson](https://www.ericsson.com/en)  
@@ -95,16 +100,16 @@ Section Leader
 
 #### Programming languages and areas at which I have a good experience
 
-- C, C++, Java, Scheme, Common Lisp, Julia, Matlab, Python, VHDL, Systemverilog
+- C, C++, Java, Scheme, Lisp, Julia, Matlab, Python
 - Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
-- FPGA design with VHDL, hardware verification with Systemverilog
+- FPGA design with VHDL, verification with Systemverilog
   (using both Xilinx and Intel (Altera) design tools)
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
+- Embedded software development directly on processor in AVR Assembly, MIPS Assembly, and C
 - Proficiency in Linux (Bash, kernel, kernel modules, services, device
   tree, driver and application development, shared libraries etc.)
 - Compiler and interpreter design with Lex (Lexical Analyzer) and Yacc (Parser)
-- Embedded software development directly on processor in AVR Assembly, MIPS Assembly, and C
 - Version control with Git and Subversion
 - Build automation with GNU Make
 - Proficiency in Office Programs
@@ -112,14 +117,22 @@ Section Leader
 
 #### Other areas I have experimented
 
+- Machine Learning (supervised and unsupervised) [^moveup]
+- Cryptanalysis with power side-channel analysis [^moveup]
 - Image analysis and computer vision
 - Networking
 - Mobile application development for IOS (Objective – C) and Android (Java)
-- Web development with HTML5, JavaScript, CSS, PHP, and Java EE
+- Web development with HTML, JavaScript, CSS, PHP, and Java EE
 - Database design with SQL and MongoDB
 
 ## PROJECTS
+(Most recent to oldest)
 
+- Strengthening Advanced Encryption Standard (AES) against power
+  side-channel analysis *(KTH Employment, Ongoing)*
+- Machine Learning modeling attacks on Physically Unclonable Functions
+  (PUFs)
+  *(KTH Employment, Ongoing)*
 - Implementation and statistical analysis of Physically Unclonable Functions (PUFs) on FPGAs
   *(MSc. Embedded Systems thesis, under the supervision of Elena Dubrova)*
 - Single-Event Upset Detector (SEUD) Experiment in [the Miniature
@@ -181,5 +194,6 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 - Skiing 
 
-- Participated to Scuba Diving
+[^moveup]: Candidate item to be moved to the upper section due to
+    expected proficiency during the current employment. 
 
