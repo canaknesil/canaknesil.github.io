@@ -117,6 +117,7 @@ Section Leader
 
 #### Other areas I have experimented
 
+- PCB design using KiCad
 - Machine Learning (supervised and unsupervised) [^moveup]
 - Cryptanalysis with power side-channel analysis [^moveup]
 - Image analysis and computer vision
