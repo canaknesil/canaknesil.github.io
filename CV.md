@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 26 June 2020.
+Updated on 9 October 2020.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -101,9 +101,11 @@ Section Leader
 #### Programming languages and areas at which I have a good experience
 
 - C, C++, Java, Scheme, Lisp, Julia, Matlab, Python
-- Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
 - FPGA design with VHDL, verification with Systemverilog
   (using both Xilinx and Intel (Altera) design tools)
+- Cryptanalysis with power side-channel analysis
+- Machine Learning (supervised and unsupervised)
+- Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
 - Embedded software development directly on processor in AVR Assembly, MIPS Assembly, and C
@@ -114,12 +116,11 @@ Section Leader
 - Build automation with GNU Make
 - Proficiency in Office Programs
 - Electronic circuit simulation with PSpice and LTspice
+- Emacs lisp programming (for fun)
 
 #### Other areas I have experimented
 
 - PCB design using KiCad
-- Machine Learning (supervised and unsupervised) [^moveup]
-- Cryptanalysis with power side-channel analysis [^moveup]
 - Image analysis and computer vision
 - Networking
 - Mobile application development for IOS (Objective – C) and Android (Java)
@@ -129,8 +130,7 @@ Section Leader
 ## PROJECTS
 (Most recent to oldest)
 
-- Strengthening Advanced Encryption Standard (AES) against power
-  side-channel analysis *(KTH Employment, Ongoing)*
+- Breaking Advanced Encryption Standard (AES) on FPGA via power side-channel attack combined with deep learning *(KTH Employment, Ongoing)*
 - Machine Learning modeling attacks on Physically Unclonable Functions
   (PUFs)
   *(KTH Employment, Ongoing)*
@@ -195,6 +195,4 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 - Skiing 
 
-[^moveup]: Candidate item to be moved to the upper section due to
-    expected proficiency during the current employment. 
 
