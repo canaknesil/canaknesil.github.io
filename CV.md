@@ -140,7 +140,8 @@ Section Leader
 - Machine Learning modeling attacks on Physically Unclonable Functions
   (PUFs)
   *(KTH Employment, Ongoing)*
-- Implementation and statistical analysis of Physically Unclonable Functions (PUFs) on FPGAs
+- [FPGA implementation and statistical analysis of Arbiter PUF with 4x4 Switch
+  Blocks](https://github.com/canaknesil/4x4-apuf)
   *(MSc. Embedded Systems thesis, under the supervision of Elena Dubrova)*
 - Single-Event Upset Detector (SEUD) Experiment in [the Miniature
   Student Satellite (MIST)](https://mistsatellite.space/)
