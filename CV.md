@@ -36,9 +36,15 @@ ISTANBUL
 Koç University, Istanbul, Turkey  
 Lab Member
 
-### Publications
+### Publications & Theses
 
-Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for GPUs", 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, September, 2017
+[Can Aknesil. "An FPGA Implementation of Arbiter PUF with 4x4 Switch
+Blocks". Master's Thesis, KTH (Royal Institute of Technology),
+Stockholm, Sweden. 2020.](../docs/An_FPGA_Implementation_of_Arbiter_PUF_with_4x4_Switch_Blocks.pdf)
+
+[Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for
+GPUs". 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, Istanbul, Turkey. September,
+2017.](../docs/MAM_A_Memory_Allocation_Manager_for_GPUs.pdf)
 
 ### Professional Experience
 
