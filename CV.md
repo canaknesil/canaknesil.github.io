@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 9 October 2020.
+Updated on 11 October 2020.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -29,12 +29,6 @@ Vehbi Koç Scholar in 2014 and 2016
 ISTANBUL 
 
 ## EXPERIENCE
-
-### Research
-
-**[Koç University - Parallel and Multicore Computing Laboratory](https://parcorelab.ku.edu.tr/)** *September 2016 – March 2018*  
-Koç University, Istanbul, Turkey  
-Lab Member
 
 ### Publications & Theses
 
@@ -89,6 +83,12 @@ Technology Department Intern
 Stanford University & Koç University  
 Koç University, Istanbul, Turkey  
 Section Leader
+
+### Research Lab Membership
+
+**[Koç University - Parallel and Multicore Computing Laboratory](https://parcorelab.ku.edu.tr/)** *September 2016 – March 2018*  
+Koç University, Istanbul, Turkey  
+Lab Member
 
 ## ACADEMIC & PROFESSIONAL SKILLS
 
