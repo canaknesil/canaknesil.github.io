@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 11 October 2020.
+Updated on 19 October 2020.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -153,7 +153,7 @@ Lab Member
 - [Limon](https://github.com/canaknesil/limon): A simple and powerful general purpose programming language *(Independent)*
 - Programable clock generator chip, RF receiver chip, and RF transmitter chip programming via BeagleBone Black *(CTech internship)*
 - [FPGA C++ Framework for FIR Filtering Applications](https://github.com/canaknesil/fpga-fir-filter-generator) *(Electrical & Electronics Engineering Final Project)*
-- A Memory Allocation Manager for GPUs, in C, compatible with C++ and CUDA *([ParCoreLab](https://parcorelab.ku.edu.tr/))*
+- [MAM: A Memory Allocation Manager for GPUs](https://github.com/canaknesil/mam), in C, compatible with C++ and CUDA *([ParCoreLab](https://parcorelab.ku.edu.tr/))*
 - HR Job Advert & Application Management Web Application, in Java *(OBSS Summer Internship)*
 - [Cannon’s matrix multiplication algorithm, in C, using MPI library](https://github.com/canaknesil/cannons-algorithm-mpi) *(Independent)*
 - Unix-style operating system shell, in C, on Linux *(During undergraduate study)*
