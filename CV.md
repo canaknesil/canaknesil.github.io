@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 19 October 2020.
+Updated on 5 December 2020.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -31,6 +31,9 @@ ISTANBUL
 ## EXPERIENCE
 
 ### Publications & Theses
+
+[Can Aknesil and Elena Dubrova. "An FPGA Implementation of 4x4 Arbiter
+PUF". Unpublished Research Paper](../docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
 
 [Can Aknesil. "An FPGA Implementation of Arbiter PUF with 4x4 Switch
 Blocks". Master's Thesis, KTH (Royal Institute of Technology),
@@ -171,6 +174,8 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 ## CONFERENCES & WORKSHOPS
 
+- [TECoSA Federated Learning
+  Workshop](https://www.tecosa.center.kth.se/). *(2020)*
 - [FPGAworld Conference 2019](http://www.fpgaworld.com/) at STOCKHOLM.
 - [FPGAworld Conference 2018](http://www.fpgaworld.com/) at STOCKHOLM.
 - [National High Performance Computing Conference](http://www.basarim.org.tr) (Ulusal Yüksek Başarımlı Hesaplama Konferansı) at Yıldız Technical University, ISTANBUL. Presented a workshop paper. *(2017)*
