@@ -174,6 +174,7 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 ## CONFERENCES & WORKSHOPS
 
+- [Solid-State Circuits Directions Inaugural Workshop: Hardware Security](https://sscs.ieee.org/). *(2020)*
 - [TECoSA Federated Learning
   Workshop](https://www.tecosa.center.kth.se/). *(2020)*
 - [FPGAworld Conference 2019](http://www.fpgaworld.com/) at STOCKHOLM.
