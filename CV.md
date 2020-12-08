@@ -103,7 +103,7 @@ Lab Member
 
 **French:** DELF B2 Overall: 57.5/100
 
-**Swedish:** Elementry level
+**Swedish:** Elementary level
 
 ### Computer & Electronics Engineering
 
