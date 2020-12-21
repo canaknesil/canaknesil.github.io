@@ -33,15 +33,15 @@ ISTANBUL
 ### Publications & Theses
 
 [Can Aknesil and Elena Dubrova. "An FPGA Implementation of 4x4 Arbiter
-PUF". Submitted to IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL 2021). 2020.](../docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
+PUF". Submitted to IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL 2021). 2020.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
 
 [Can Aknesil. "An FPGA Implementation of Arbiter PUF with 4x4 Switch
 Blocks". Master's Thesis, KTH (Royal Institute of Technology),
-Stockholm, Sweden. 2020.](../docs/An_FPGA_Implementation_of_Arbiter_PUF_with_4x4_Switch_Blocks.pdf)
+Stockholm, Sweden. 2020.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_Arbiter_PUF_with_4x4_Switch_Blocks.pdf)
 
 [Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for
 GPUs". 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, Istanbul, Turkey. September,
-2017.](../docs/MAM_A_Memory_Allocation_Manager_for_GPUs.pdf)
+2017.](https://www.canaknesil.com/docs/MAM_A_Memory_Allocation_Manager_for_GPUs.pdf)
 
 ### Professional Experience
 
