@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 5 December 2020.
+Updated on 19 April 2021.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -12,6 +12,14 @@ Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM
 [www.canaknesil.com](https://www.canaknesil.com)  
 
 ## EDUCATION
+
+**KTH Royal Institute of Technology** *2021 - Present*  
+**School of Electrical Engineering and Computer Science**, STOCKHOLM  
+**Doctoral Study in Information and Communication Technology**  
+Specialization: Electronic Systems  
+Title: Protection of Intellectual Property and Confidential Data from
+Machine Learning Based Attacks  
+Supervisor: Prof. Elena Dubrova
 
 **KTH Royal Institute of Technology** *2018 – 2020*  
 **School of Electrical Engineering and Computer Science**, STOCKHOLM  
@@ -33,7 +41,7 @@ ISTANBUL
 ### Publications & Theses
 
 [Can Aknesil and Elena Dubrova. "An FPGA Implementation of 4x4 Arbiter
-PUF". Submitted to IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL 2021). 2020.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
+PUF". IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL 2021). 2021.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
 
 [Can Aknesil. "An FPGA Implementation of Arbiter PUF with 4x4 Switch
 Blocks". Master's Thesis, KTH (Royal Institute of Technology),
@@ -45,7 +53,14 @@ GPUs". 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, Istanbul, Turkey. S
 
 ### Professional Experience
 
-**Employment** *June 2020 – Present*  
+**Doctoral Study** *March 2021 - Present*  
+[KTH (Royal Institute of Technology)](https://www.kth.se/en)  
+Stockholm, Sweden  
+Doctoral Student in the School of Electrical Engineering and Computer
+Science, Department of Electrical Engineering, Division of Electronics
+and Embedded Systems
+
+**Employment** *June 2020 – January 2021*  
 [KTH (Royal Institute of Technology)](https://www.kth.se/en)  
 Stockholm, Sweden  
 Research Engineer in the School of Electrical Engineering and Computer Science
@@ -114,6 +129,7 @@ Lab Member
   (using both Xilinx and Intel (Altera) design tools)
 - Cryptanalysis with power side-channel analysis
 - Machine Learning (supervised and unsupervised)
+- Machine Learning Security
 - Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
@@ -139,10 +155,11 @@ Lab Member
 ## PROJECTS
 (Most recent to oldest)
 
-- Breaking Advanced Encryption Standard (AES) on FPGA via power side-channel attack combined with deep learning *(KTH Employment, Ongoing)*
+- Bitstream Extraction from SPI Flash Communication *(Doctoral Study)*
+- Breaking Advanced Encryption Standard (AES) on FPGA via power side-channel attack combined with deep learning *(KTH Employment)*
 - Machine Learning modeling attacks on Physically Unclonable Functions
   (PUFs)
-  *(KTH Employment, Ongoing)*
+  *(KTH Employment)*
 - [FPGA implementation and statistical analysis of Arbiter PUF with 4x4 Switch
   Blocks](https://github.com/canaknesil/4x4-apuf)
   *(MSc. Embedded Systems thesis, under the supervision of Elena Dubrova)*
@@ -174,6 +191,7 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 ## CONFERENCES & WORKSHOPS
 
+- [IEEE International Symposium on Multiple-Valued Logic](http://www.mvl.jpn.org/ISMVL2021/). *(2021)*
 - [Solid-State Circuits Directions Inaugural Workshop: Hardware Security](https://sscs.ieee.org/). *(2020)*
 - [TECoSA Federated Learning
   Workshop](https://www.tecosa.center.kth.se/). *(2020)*
