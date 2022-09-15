@@ -234,7 +234,7 @@ A subset of my projects that are or are not mentioned here can be found [here](h
   - Koç Orchestra, piano and keyboard, during 3 years. Performed 7 concerts
   - Water Clock (band), keyboard, during 1 year. Performed 2 concert
 
-- Skating
+- Ice skating
 
 - Windsurfing
 
