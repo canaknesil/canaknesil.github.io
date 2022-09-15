@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 19 April 2021.
+Updated on 15 September 2022.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -39,6 +39,11 @@ ISTANBUL
 ## EXPERIENCE
 
 ### Publications & Theses
+
+Can Aknesil and Elena Dubrova. "Towards Generic Power/EM Side-Channel
+Attacks: Memory Leakage on General-Purpose Computers". 30th IFIP/IEEE
+International Conference on Very Large Scale Integration (VLSI-SoC
+2022). 2022.
 
 [Can Aknesil and Elena Dubrova. "An FPGA Implementation of 4x4 Arbiter
 PUF". IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL 2021). 2021.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
@@ -97,6 +102,13 @@ Technology Department Intern
 
 ### Teaching Experience
 
+**Various Teaching Assistantship during Doctoral Study** *March 2021 - Present*  
+[KTH (Royal Institute of Technology)](https://www.kth.se/en)  
+Stockholm, Sweden  
+Doctoral Student in the School of Electrical Engineering and Computer
+Science, Department of Electrical Engineering, Division of Electronics
+and Embedded Systems
+
 **[CS Bridge Program](http://www.csbridge.org)** *June 20 – 30, 2016*  
 Stanford University & Koç University  
 Koç University, Istanbul, Turkey  
@@ -118,23 +130,24 @@ Lab Member
 
 **French:** DELF B2 Overall: 57.5/100
 
-**Swedish:** Elementary level
+**Swedish:** SFI Course C (roughly corresponds to CEFR A2/A2+)
 
 ### Computer & Electronics Engineering
 
 #### Programming languages and areas at which I have a good experience
 
-- C, C++, Java, Scheme, Lisp, Julia, Matlab, Python
-- FPGA design with VHDL, verification with Systemverilog
+- C, C++, Java, Scheme, Lisp, Julia, Matlab, Python, Bash, PowerShell
+- FPGA design with VHDL, verification with VHDL and SystemVerilog
   (using both Xilinx and Intel (Altera) design tools)
-- Cryptanalysis with power side-channel analysis
+- Tcl scripting within Xilinx Vivado environment
+- Power/EM side-channel analysis
 - Machine Learning (supervised and unsupervised)
 - Machine Learning Security
 - Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
 - Embedded software development directly on processor in AVR Assembly, MIPS Assembly, and C
-- Proficiency in Linux (Bash, kernel, kernel modules, services, device
+- Proficiency in Linux (Shell scripting, kernel, kernel modules, services, device
   tree, driver and application development, shared libraries etc.)
 - Compiler and interpreter design with Lex (Lexical Analyzer) and Yacc (Parser)
 - Version control with Git and Subversion
@@ -151,10 +164,15 @@ Lab Member
 - Mobile application development for IOS (Objective – C) and Android (Java)
 - Web development with HTML, JavaScript, CSS, PHP, and Java EE
 - Database design with SQL and MongoDB
+- Circuit development for audio applications
 
 ## PROJECTS
 (Most recent to oldest)
 
+- Side-channel attacks on memory operations of general purpose
+  computers *(Doctoral Study)*
+- Side-channel attacks on Xilinx Artix-7 FPGA bitstream encryption
+  engine *(Doctoral Study)*
 - Bitstream Extraction from SPI Flash Communication *(Doctoral Study)*
 - Breaking Advanced Encryption Standard (AES) on FPGA via power side-channel attack combined with deep learning *(KTH Employment)*
 - Machine Learning modeling attacks on Physically Unclonable Functions
@@ -191,6 +209,7 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 ## CONFERENCES & WORKSHOPS
 
+- [FPGAworld Conference 2022](http://www.fpgaworld.com/) at STOCKHOLM.
 - [IEEE International Symposium on Multiple-Valued Logic](http://www.mvl.jpn.org/ISMVL2021/). *(2021)*
 - [Solid-State Circuits Directions Inaugural Workshop: Hardware Security](https://sscs.ieee.org/). *(2020)*
 - [TECoSA Federated Learning
@@ -210,10 +229,14 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 ## HOBBIES & ACTIVITIES
 
-- Music: Piano and Oud (A Classical Turkish Musical Instrument)
+- Music: Piano, Guitar and Oud (A Classical Turkish Musical Instrument)
   - London College of Music Piano Examinations, Grade 5
   - Koç Orchestra, piano and keyboard, during 3 years. Performed 7 concerts
   - Water Clock (band), keyboard, during 1 year. Performed 2 concert
+
+- Skating
+
+- Windsurfing
 
 - Sailing
   - Koç University Sailing Team member
