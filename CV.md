@@ -169,8 +169,8 @@ Lab Member
 ## PROJECTS
 (Most recent to oldest)
 
-- Side-channel attacks on memory operations of general purpose
-  computers *(Doctoral Study)*
+- [Side-channel attacks on memory operations of general purpose
+  computers](https://github.com/canaknesil/rpi3-memory-leakage) *(Doctoral Study)*
 - Side-channel attacks on Xilinx Artix-7 FPGA bitstream encryption
   engine *(Doctoral Study)*
 - Bitstream Extraction from SPI Flash Communication *(Doctoral Study)*
