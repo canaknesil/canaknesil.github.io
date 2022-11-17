@@ -209,14 +209,17 @@ A subset of my projects that are or are not mentioned here can be found [here](h
 
 ## CONFERENCES & WORKSHOPS
 
+- [30th IFIP/IEEE International Conference on Very Large Scale
+  Integration](https://vlsisoc2022.com/). Presented a research paper. *(2022)*
 - [FPGAworld Conference 2022](http://www.fpgaworld.com/) at STOCKHOLM.
-- [IEEE International Symposium on Multiple-Valued Logic](http://www.mvl.jpn.org/ISMVL2021/). *(2021)*
+- [IEEE 51st International Symposium on Multiple-Valued
+  Logic](http://www.mvl.jpn.org/ISMVL2021/). Presented a research paper. *(2021)*
 - [Solid-State Circuits Directions Inaugural Workshop: Hardware Security](https://sscs.ieee.org/). *(2020)*
 - [TECoSA Federated Learning
   Workshop](https://www.tecosa.center.kth.se/). *(2020)*
 - [FPGAworld Conference 2019](http://www.fpgaworld.com/) at STOCKHOLM.
 - [FPGAworld Conference 2018](http://www.fpgaworld.com/) at STOCKHOLM.
-- [National High Performance Computing Conference](http://www.basarim.org.tr) (Ulusal Yüksek Başarımlı Hesaplama Konferansı) at Yıldız Technical University, ISTANBUL. Presented a workshop paper. *(2017)*
+- [National High Performance Computing Conference](http://www.basarim.org.tr) (Ulusal Yüksek Başarımlı Hesaplama Konferansı). Presented a workshop paper. *(2017)*
 
 - Training named "Neuroscience for Leadership" at Kariyer.Net *(2017)*
 - Training named "Idea Production Techniques" at Kariyer.Net *(2017)*
