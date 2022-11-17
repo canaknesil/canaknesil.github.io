@@ -40,10 +40,10 @@ ISTANBUL
 
 ### Publications & Theses
 
-Can Aknesil and Elena Dubrova. "Towards Generic Power/EM Side-Channel
+[Can Aknesil and Elena Dubrova. "Towards Generic Power/EM Side-Channel
 Attacks: Memory Leakage on General-Purpose Computers". 30th IFIP/IEEE
 International Conference on Very Large Scale Integration (VLSI-SoC
-2022). 2022.
+2022). 2022.](https://www.canaknesil.com/docs/Memory_Leakage_on_General-Purpose_Computers.pdf)
 
 [Can Aknesil and Elena Dubrova. "An FPGA Implementation of 4x4 Arbiter
 PUF". IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL 2021). 2021.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
