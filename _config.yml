@@ -23,9 +23,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: canaknesil
 
-mastodon:
-  - username: canaknesil
-    instance: floss.social
+#mastodon:
+#  - username: canaknesil
+#    instance: floss.social
 
 # Build settings
 markdown: kramdown
