@@ -40,6 +40,9 @@ ISTANBUL
 
 ### Publications & Theses
 
+Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "Is Your FPGA Transmitting Secrets:
+Covert Antennas from Interconnect". 30th Reconfigurable Architectures Workshop (RAW 2023). 2023.
+
 [Can Aknesil and Elena Dubrova. "Towards Generic Power/EM Side-Channel
 Attacks: Memory Leakage on General-Purpose Computers". 30th IFIP/IEEE
 International Conference on Very Large Scale Integration (VLSI-SoC
