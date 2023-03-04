@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 15 September 2022.
+Updated on 4 March 2023.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -13,7 +13,7 @@ Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM
 
 ## EDUCATION
 
-**KTH Royal Institute of Technology** *2021 - Present*  
+**KTH Royal Institute of Technology** *2021 – Present*  
 **School of Electrical Engineering and Computer Science**, STOCKHOLM  
 **Doctoral Study in Information and Communication Technology**  
 Specialization: Electronic Systems  
@@ -61,7 +61,7 @@ GPUs". 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, Istanbul, Turkey. S
 
 ### Professional Experience
 
-**Doctoral Study** *March 2021 - Present*  
+**Doctoral Study** *March 2021 – Present*  
 [KTH (Royal Institute of Technology)](https://www.kth.se/en)  
 Stockholm, Sweden  
 Doctoral Student in the School of Electrical Engineering and Computer
@@ -172,6 +172,7 @@ Lab Member
 ## PROJECTS
 (Most recent to oldest)
 
+- [Covert antenna implementations on FPGA interconnect](https://github.com/canaknesil/antenna-from-interconnect/) *(Doctoral Study)*
 - [Side-channel attacks on memory operations of general purpose
   computers](https://github.com/canaknesil/rpi3-memory-leakage) *(Doctoral Study)*
 - Side-channel attacks on Xilinx Artix-7 FPGA bitstream encryption
@@ -203,7 +204,7 @@ Lab Member
 - Sound Transmission via Amplitude Modulation of Light, electronic circuit and simulation on PSpice *(During undergraduate study)*
 - Digital clock, on FPGA board using VHDL *(During undergraduate study)*
 
-A subset of my projects that are or are not mentioned here can be found [here](https://github.com/canaknesil).
+A subset of my projects can be found [here](https://github.com/canaknesil).
 
 ## AWARDS
 
