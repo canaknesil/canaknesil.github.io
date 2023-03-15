@@ -36,9 +36,7 @@ Vehbi Koç Scholar in 2014 and 2016
 **Notre Dame de Sion** French High School *2008 – 2013*  
 ISTANBUL 
 
-## EXPERIENCE
-
-### Publications & Theses
+## PUBLICATIONS
 
 Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "Is Your FPGA Transmitting Secrets:
 Covert Antennas from Interconnect". 30th Reconfigurable Architectures Workshop (RAW 2023). 2023.
@@ -58,6 +56,8 @@ Stockholm, Sweden. 2020.](https://www.canaknesil.com/docs/An_FPGA_Implementation
 [Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for
 GPUs". 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, Istanbul, Turkey. September,
 2017.](https://www.canaknesil.com/docs/MAM_A_Memory_Allocation_Manager_for_GPUs.pdf)
+
+## EXPERIENCE
 
 ### Professional Experience
 
@@ -118,7 +118,7 @@ Section Leader
 Koç University, Istanbul, Turkey  
 Lab Member
 
-## ACADEMIC & PROFESSIONAL SKILLS
+## SKILLS
 
 ### Language
 
