@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 4 March 2023.
+Updated on 15 March 2023.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -73,15 +73,10 @@ and Embedded Systems
 Stockholm, Sweden  
 Research Engineer in the School of Electrical Engineering and Computer Science
 
-**Internship R&D** *September 2019 – November 2019*  
+**Internship R&D** *June 2019 – November 2019*  
 [Telefonaktiebolaget LM Ericsson](https://www.ericsson.com/en)  
 Stockholm, Sweden  
 Intern in High Performance Broadband/Radio Software Department
-
-**Summer Internship R&D** *June 2019 – July 2019*  
-[Telefonaktiebolaget LM Ericsson](https://www.ericsson.com/en)  
-Stockholm, Sweden  
-Summer Intern in High Performance Broadband/Radio Software Department
 
 **Work&Study in College of Engineering** *September 2017 – January 2018*  
 [Koç University - College of Engineering](https://eng.ku.edu.tr/en/)  
@@ -170,7 +165,7 @@ Lab Member
 - Circuit development for audio applications
 
 ## PROJECTS
-(Most recent to oldest)
+(From the most recent to the earliest)
 
 - [Covert antenna implementations on FPGA interconnect](https://github.com/canaknesil/antenna-from-interconnect/) *(Doctoral Study)*
 - [Side-channel attacks on memory operations of general purpose
