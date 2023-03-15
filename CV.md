@@ -130,39 +130,49 @@ Lab Member
 
 **Swedish:** SFI Course C (roughly corresponds to CEFR A2/A2+)
 
-### Computer & Electronics Engineering
+### Electronics Engineering & Computer Science
 
-#### Programming languages and areas at which I have a good experience
-
-- C, C++, Java, Scheme, Lisp, Julia, Matlab, Python, Bash, PowerShell
+Hardware security
+- Power/EM side-channel attacks
+  (simple, differential, ML-based, and remote power analysis on FPGAs and microcontrollers)
+- Covert channel attacks on remote FPGAs
+  
+Hardware design & development
 - FPGA design with VHDL, verification with VHDL and SystemVerilog
   (using both Xilinx and Intel (Altera) design tools)
-- Tcl scripting within Xilinx Vivado environment
-- Power/EM side-channel analysis
-- Machine Learning (supervised and unsupervised)
-- Machine Learning Security
-- Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
+- Tcl scripting in Xilinx Vivado environment
+
+Embedded systems design & development:
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
 - Embedded software development directly on processor in AVR Assembly, MIPS Assembly, and C
-- Proficiency in Linux (Shell scripting, kernel, kernel modules, services, device
-  tree, driver and application development, shared libraries etc.)
+
+High-performance computing (HPC)
+- Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
+
+Computer science
+- Scientific programming
+- Machine Learning (supervised and unsupervised)
+- Machine Learning Security
+- Proficiency in Linux (personal usage, system administration, driver and application development)
 - Compiler and interpreter design with Lex (Lexical Analyzer) and Yacc (Parser)
 - Version control with Git and Subversion
 - Build automation with GNU Make
 - Proficiency in Office Programs
-- Electronic circuit simulation with PSpice and LTspice
-- Emacs lisp programming (for fun)
 
-#### Other areas I have experimented
+Programming/scripting languages
+- C, C++, Java, Julia, Python, Matlab, Lisp, Haskell, Bash, PowerShell
 
+Various other areas I have experimented
 - PCB design using KiCad
 - Image analysis and computer vision
 - Networking
 - Mobile application development for IOS (Objective – C) and Android (Java)
-- Web development with HTML, JavaScript, CSS, PHP, and Java EE
+- Web development with HTML, JavaScript, CSS, PHP, Java EE, and Django
 - Database design with SQL and MongoDB
 - Circuit development for audio applications
+- Electronic circuit simulation with PSpice and LTspice
+- Emacs lisp programming
 
 ## PROJECTS
 (From the most recent to the earliest)
@@ -229,26 +239,22 @@ A subset of my projects can be found [here](https://github.com/canaknesil).
 
 - Participated to workshop organized by NDS to "Istanbul Technical University Energy Institute Nuclear Researches Division". Observation of "ITU TRIGA Mark-II Training and Research Reactor". *(2012)*
 
-## HOBBIES & ACTIVITIES
+## HOBBIES & INTERESTS
 
 - Music: Piano, Guitar and Oud (A Classical Turkish Musical Instrument)
   - London College of Music Piano Examinations, Grade 5
   - Koç Orchestra, piano and keyboard, during 3 years. Performed 7 concerts
   - Water Clock (band), keyboard, during 1 year. Performed 2 concert
 
-- Ice skating
-
-- Windsurfing
-
-- Sailing
-  - Koç University Sailing Team member
+- Water sports: Sailing, Windsurfing
   - Have an Amateur Yacht Captain License
   - Participated to optimist courses at Ataköy Marine
   - Participated to sailing education at Istanbul Sailing Club
   - Officially licensed, intermediate level windsurfer registered with the Turkish Sailing Federation.
 
-- Table tennis team member in Notre Dame de Sion (high school)
+- Tennis, Table tennis
+  - Table tennis team member in Notre Dame de Sion (high school)
 
-- Skiing 
+- Winter sports: Skiing, Ice skating
 
 
