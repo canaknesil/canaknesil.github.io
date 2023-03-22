@@ -39,15 +39,13 @@ ISTANBUL
 ## PUBLICATIONS
 
 Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "Is Your FPGA Transmitting Secrets:
-Covert Antennas from Interconnect". 30th Reconfigurable Architectures Workshop (RAW 2023). 2023.
+Covert Antennas from Interconnect". 2023 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). 2023.
 
 [Can Aknesil and Elena Dubrova. "Towards Generic Power/EM Side-Channel
-Attacks: Memory Leakage on General-Purpose Computers". 30th IFIP/IEEE
-International Conference on Very Large Scale Integration (VLSI-SoC
-2022). 2022.](https://www.canaknesil.com/docs/Memory_Leakage_on_General-Purpose_Computers.pdf)
+Attacks: Memory Leakage on General-Purpose Computers". 2022 IFIP/IEEE 30th International Conference on Very Large Scale Integration (VLSI-SoC). 2022.](https://www.canaknesil.com/docs/Memory_Leakage_on_General-Purpose_Computers.pdf)
 
 [Can Aknesil and Elena Dubrova. "An FPGA Implementation of 4x4 Arbiter
-PUF". IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL 2021). 2021.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
+PUF". 2021 IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL). 2021.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
 
 [Can Aknesil. "An FPGA Implementation of Arbiter PUF with 4x4 Switch
 Blocks". Master's Thesis, KTH (Royal Institute of Technology),
