@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 15 March 2023.
+Updated on 10 August 2023.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -38,18 +38,18 @@ ISTANBUL
 
 ## PUBLICATIONS
 
-Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "Is Your FPGA Transmitting Secrets:
-Covert Antennas from Interconnect". 2023 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). 2023.
+[Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "Is Your FPGA Transmitting Secrets:
+Covert Antennas from Interconnect". 2023 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). 2023.](https://doi.org/10.1109/IPDPSW59300.2023.00025)
 
 [Can Aknesil and Elena Dubrova. "Towards Generic Power/EM Side-Channel
-Attacks: Memory Leakage on General-Purpose Computers". 2022 IFIP/IEEE 30th International Conference on Very Large Scale Integration (VLSI-SoC). 2022.](https://www.canaknesil.com/docs/Memory_Leakage_on_General-Purpose_Computers.pdf)
+Attacks: Memory Leakage on General-Purpose Computers". 2022 IFIP/IEEE 30th International Conference on Very Large Scale Integration (VLSI-SoC). 2022.](https://doi.org/10.1109/VLSI-SoC54400.2022.9939649)
 
 [Can Aknesil and Elena Dubrova. "An FPGA Implementation of 4x4 Arbiter
-PUF". 2021 IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL). 2021.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_4x4_Arbiter_PUF.pdf)
+PUF". 2021 IEEE 51st International Symposium on Multiple-Valued Logic (ISMVL). 2021.](https://doi.org/10.1109/ISMVL51352.2021.00035)
 
 [Can Aknesil. "An FPGA Implementation of Arbiter PUF with 4x4 Switch
 Blocks". Master's Thesis, KTH (Royal Institute of Technology),
-Stockholm, Sweden. 2020.](https://www.canaknesil.com/docs/An_FPGA_Implementation_of_Arbiter_PUF_with_4x4_Switch_Blocks.pdf)
+Stockholm, Sweden. 2020.](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1460662)
 
 [Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for
 GPUs". 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, Istanbul, Turkey. September,
@@ -216,16 +216,17 @@ A subset of my projects can be found [here](https://github.com/canaknesil).
 
 ## CONFERENCES & WORKSHOPS
 
+- [30th Reconfigurable Architectures Workshop](https://raw.necst.it/). Presented a research paper. *(2023)*
 - [30th IFIP/IEEE International Conference on Very Large Scale
   Integration](https://vlsisoc2022.com/). Presented a research paper. *(2022)*
-- [FPGAworld Conference 2022](http://www.fpgaworld.com/) at STOCKHOLM.
+- [FPGAworld Conference 2022](http://www.fpgaworld.com/) in STOCKHOLM.
 - [IEEE 51st International Symposium on Multiple-Valued
   Logic](http://www.mvl.jpn.org/ISMVL2021/). Presented a research paper. *(2021)*
 - [Solid-State Circuits Directions Inaugural Workshop: Hardware Security](https://sscs.ieee.org/). *(2020)*
 - [TECoSA Federated Learning
   Workshop](https://www.tecosa.center.kth.se/). *(2020)*
-- [FPGAworld Conference 2019](http://www.fpgaworld.com/) at STOCKHOLM.
-- [FPGAworld Conference 2018](http://www.fpgaworld.com/) at STOCKHOLM.
+- [FPGAworld Conference 2019](http://www.fpgaworld.com/) in STOCKHOLM.
+- [FPGAworld Conference 2018](http://www.fpgaworld.com/) in STOCKHOLM.
 - [National High Performance Computing Conference](http://www.basarim.org.tr) (Ulusal Yüksek Başarımlı Hesaplama Konferansı). Presented a workshop paper. *(2017)*
 
 - Training named "Neuroscience for Leadership" at Kariyer.Net *(2017)*
