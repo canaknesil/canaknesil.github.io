@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 10 August 2023.
+Updated on 5 October 2023.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -37,6 +37,8 @@ Vehbi Koç Scholar in 2014 and 2016
 ISTANBUL 
 
 ## PUBLICATIONS
+
+Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "A Near-Field EM Sensor Implemented in FPGA Configurable Fabric". 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). 2023.
 
 [Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "Is Your FPGA Transmitting Secrets:
 Covert Antennas from Interconnect". 2023 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). 2023.](https://doi.org/10.1109/IPDPSW59300.2023.00025)
@@ -175,6 +177,7 @@ Various other areas I have experimented
 ## PROJECTS
 (From the most recent to the earliest)
 
+- [Near-field EM sensor implementations in FPGA configurable fabric](https://github.com/canaknesil/fpga-em-sensor) *(Doctoral Study)*
 - [Covert antenna implementations on FPGA interconnect](https://github.com/canaknesil/antenna-from-interconnect/) *(Doctoral Study)*
 - [Side-channel attacks on memory operations of general purpose
   computers](https://github.com/canaknesil/rpi3-memory-leakage) *(Doctoral Study)*
