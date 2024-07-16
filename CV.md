@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 5 October 2023.
+Updated on 16 July 2024.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -17,8 +17,7 @@ Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM
 **School of Electrical Engineering and Computer Science**, STOCKHOLM  
 **Doctoral Study in Information and Communication Technology**  
 Specialization: Electronic Systems  
-Title: Protection of Intellectual Property and Confidential Data from
-Machine Learning Based Attacks  
+Title: Protection of Confidential Data on Remote FPGAs and IoT Devices from Non-Invasive Physical Attacks  
 Supervisor: Prof. Elena Dubrova
 
 **KTH Royal Institute of Technology** *2018 – 2020*  
@@ -38,7 +37,9 @@ ISTANBUL
 
 ## PUBLICATIONS
 
-Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "A Near-Field EM Sensor Implemented in FPGA Configurable Fabric". 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). 2023.
+Can Aknesil, Elena Dubrova. "Circuit Disguise: Detecting Malicious Circuits in Cloud FPGAs without IP Disclosure". 2024 27th Euromicro Conference on Digital System Design (DSD). 2024.
+
+[Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "A Near-Field EM Sensor Implemented in FPGA Configurable Fabric". 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). 2023.](https://doi.org/10.1109/TrustCom60117.2023.00259)
 
 [Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "Is Your FPGA Transmitting Secrets:
 Covert Antennas from Interconnect". 2023 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). 2023.](https://doi.org/10.1109/IPDPSW59300.2023.00025)
@@ -128,7 +129,7 @@ Lab Member
 
 **French:** DELF B2 Overall: 57.5/100
 
-**Swedish:** SFI Course C (roughly corresponds to CEFR A2/A2+)
+**Swedish:** SFI Course C (roughly corresponds to CEFR A2/A2+), KTH Swedish B1 for Employees
 
 ### Electronics Engineering & Computer Science
 
@@ -141,11 +142,13 @@ Hardware design & development
 - FPGA design with VHDL, verification with VHDL and SystemVerilog
   (using both Xilinx and Intel (Altera) design tools)
 - Tcl scripting in Xilinx Vivado environment
+- RTL synthesis with Yosys
+- Graph-bases analysis of digital circuits
 
 Embedded systems design & development:
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
-- Embedded software development directly on processor in AVR Assembly, MIPS Assembly, and C
+- Embedded software development directly on processor in AVR Assembly, MIPS Assembly, C, and C++
 
 High-performance computing (HPC)
 - Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
@@ -154,8 +157,8 @@ Computer science
 - Scientific programming
 - Machine Learning (supervised and unsupervised)
 - Machine Learning Security
-- Proficiency in Linux (personal usage, system administration, driver and application development)
-- Compiler and interpreter design with Lex (Lexical Analyzer) and Yacc (Parser)
+- Proficiency in Linux (personal use, system administration, driver and application development)
+- Compiler and interpreter design with Lex (Lexical Analyzer), Yacc (Parser), and PLY (Python Lex-Yacc)
 - Version control with Git and Subversion
 - Build automation with GNU Make
 - Proficiency in Office Programs
@@ -165,6 +168,7 @@ Programming/scripting languages
 
 Various other areas I have experimented
 - PCB design using KiCad
+- Mixed-signal IC design using Cadence Virtuoso
 - Image analysis and computer vision
 - Networking
 - Mobile application development for IOS (Objective – C) and Android (Java)
@@ -177,6 +181,7 @@ Various other areas I have experimented
 ## PROJECTS
 (From the most recent to the earliest)
 
+- [Circuit Disguise: Detecting Malicious Circuits in Cloud FPGAs without IP Disclosure](https://github.com/canaknesil/CircuitDisguise.jl) *(Doctoral Study)*
 - [Near-field EM sensor implementations in FPGA configurable fabric](https://github.com/canaknesil/fpga-em-sensor) *(Doctoral Study)*
 - [Covert antenna implementations on FPGA interconnect](https://github.com/canaknesil/antenna-from-interconnect/) *(Doctoral Study)*
 - [Side-channel attacks on memory operations of general purpose
@@ -219,18 +224,19 @@ A subset of my projects can be found [here](https://github.com/canaknesil).
 
 ## CONFERENCES & WORKSHOPS
 
-- [30th Reconfigurable Architectures Workshop](https://raw.necst.it/). Presented a research paper. *(2023)*
+- (Upcoming) [27th Euromicro Conference Series on Digital System Design](https://dsd-seaa.com/dsd2024/). Presented a research paper. *(2024)*
+- [Cybersecurity and Privacy (CySeP) Summer School](https://cysep.conf.kth.se/). *(2024)*
+- [30th Reconfigurable Architectures Workshop (RAW)](https://raw.necst.it/). Presented a research paper. *(2023)*
 - [30th IFIP/IEEE International Conference on Very Large Scale
-  Integration](https://vlsisoc2022.com/). Presented a research paper. *(2022)*
-- [FPGAworld Conference 2022](http://www.fpgaworld.com/) in STOCKHOLM.
+  Integration (VLSI-SoC)](https://vlsisoc2022.com/). Presented a research paper. *(2022)*
+- [FPGAworld Conference](http://www.fpgaworld.com/) in Stockholm. *(2022)*
 - [IEEE 51st International Symposium on Multiple-Valued
-  Logic](http://www.mvl.jpn.org/ISMVL2021/). Presented a research paper. *(2021)*
+  Logic (ISMVL)](http://www.mvl.jpn.org/ISMVL2021/). Presented a research paper. *(2021)*
 - [Solid-State Circuits Directions Inaugural Workshop: Hardware Security](https://sscs.ieee.org/). *(2020)*
-- [TECoSA Federated Learning
-  Workshop](https://www.tecosa.center.kth.se/). *(2020)*
-- [FPGAworld Conference 2019](http://www.fpgaworld.com/) in STOCKHOLM.
-- [FPGAworld Conference 2018](http://www.fpgaworld.com/) in STOCKHOLM.
-- [National High Performance Computing Conference](http://www.basarim.org.tr) (Ulusal Yüksek Başarımlı Hesaplama Konferansı). Presented a workshop paper. *(2017)*
+- [TECoSA Federated Learning Workshop](https://www.tecosa.center.kth.se/). *(2020)*
+- [FPGAworld Conference](http://www.fpgaworld.com/) in Stockholm. *(2019)*
+- [FPGAworld Conference](http://www.fpgaworld.com/) in Stockholm. *(2018)*
+- [National High Performance Computing Conference (BAŞARIM)](http://www.basarim.org.tr) (Ulusal Yüksek Başarımlı Hesaplama Konferansı). Presented a research paper. *(2017)*
 
 - Training named "Neuroscience for Leadership" at Kariyer.Net *(2017)*
 - Training named "Idea Production Techniques" at Kariyer.Net *(2017)*
@@ -243,7 +249,7 @@ A subset of my projects can be found [here](https://github.com/canaknesil).
 
 ## HOBBIES & INTERESTS
 
-- Music: Piano, Guitar and Oud (A Classical Turkish Musical Instrument)
+- Music: Piano, Oud (A Classical Turkish Musical Instrument), and Guitar
   - London College of Music Piano Examinations, Grade 5
   - Koç Orchestra, piano and keyboard, during 3 years. Performed 7 concerts
   - Water Clock (band), keyboard, during 1 year. Performed 2 concert
