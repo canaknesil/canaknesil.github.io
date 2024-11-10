@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 16 July 2024.
+Updated on 10 November 2024.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -17,7 +17,7 @@ Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM
 **School of Electrical Engineering and Computer Science**, STOCKHOLM  
 **Doctoral Study in Information and Communication Technology**  
 Specialization: Electronic Systems  
-Title: Protection of Confidential Data on Remote FPGAs and IoT Devices from Non-Invasive Physical Attacks  
+Title: Protecting Remote FPGAs and IoT Devices from Non-Invasive Physical Attacks  
 Supervisor: Prof. Elena Dubrova
 
 **KTH Royal Institute of Technology** *2018 – 2020*  
@@ -37,7 +37,7 @@ ISTANBUL
 
 ## PUBLICATIONS
 
-Can Aknesil, Elena Dubrova. "Circuit Disguise: Detecting Malicious Circuits in Cloud FPGAs without IP Disclosure". 2024 27th Euromicro Conference on Digital System Design (DSD). 2024.
+[Can Aknesil, Elena Dubrova. "Circuit Disguise: Detecting Malicious Circuits in Cloud FPGAs without IP Disclosure". 2024 27th Euromicro Conference on Digital System Design (DSD). 2024.](https://doi.ieeecomputersociety.org/10.1109/DSD64264.2024.00055)
 
 [Can Aknesil, Elena Dubrova, Niklas Lindskog and Håkan Englund. "A Near-Field EM Sensor Implemented in FPGA Configurable Fabric". 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). 2023.](https://doi.org/10.1109/TrustCom60117.2023.00259)
 
@@ -136,8 +136,13 @@ Lab Member
 Hardware security
 - Power/EM side-channel attacks
   (simple, differential, ML-based, and remote power analysis on FPGAs and microcontrollers)
-- Covert channel attacks on remote FPGAs
-- Machine Learning Security
+- FPGA security
+- Machine learning security
+
+Computer security
+- Machine learning security
+- Penetration testing
+- Networking and network security
   
 Hardware design & development
 - FPGA design and verification with VHDL and SystemVerilog
@@ -158,7 +163,6 @@ High-performance computing (HPC)
 Computer science
 - Scientific programming
 - Machine Learning (supervised and unsupervised)
-- Machine Learning Security
 - Proficiency in Linux (personal use, system administration, driver and application development)
 - Compiler and interpreter design with Lex (Lexical Analyzer), Yacc (Parser), and PLY (Python Lex-Yacc)
 - Version control with Git and Subversion
@@ -173,7 +177,6 @@ Various other areas I have experimented
 - PCB design using KiCad
 - Mixed-signal IC design using Cadence Virtuoso
 - Image analysis and computer vision
-- Networking and network security
 - Mobile application development for IOS (Objective – C) and Android (Java)
 - Web development with HTML, JavaScript, CSS, PHP, Java EE, and Django
 - Database design with SQL and MongoDB
@@ -227,7 +230,7 @@ A subset of my projects can be found [here](https://github.com/canaknesil).
 
 ## CONFERENCES & WORKSHOPS
 
-- (Upcoming) [27th Euromicro Conference Series on Digital System Design](https://dsd-seaa.com/dsd2024/). Presented a research paper. *(2024)*
+- [27th Euromicro Conference Series on Digital System Design](https://dsd-seaa.com/dsd2024/). Presented a research paper. *(2024)*
 - [Cybersecurity and Privacy (CySeP) Summer School](https://cysep.conf.kth.se/). *(2024)*
 - [30th Reconfigurable Architectures Workshop (RAW)](https://raw.necst.it/). Presented a research paper. *(2023)*
 - [30th IFIP/IEEE International Conference on Very Large Scale
@@ -257,7 +260,7 @@ A subset of my projects can be found [here](https://github.com/canaknesil).
   - Koç Orchestra, piano and keyboard, during 3 years. Performed 7 concerts
   - Water Clock (band), keyboard, during 1 year. Performed 2 concert
 
-- Water sports: Sailing, Windsurfing
+- Summer sports: Sailing, Windsurfing
   - Have an Amateur Yacht Captain License
   - Participated to optimist courses at Ataköy Marine
   - Participated to sailing education at Istanbul Sailing Club
