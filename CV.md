@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 10 November 2024.
+Updated on 28 January 2025.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -17,7 +17,7 @@ Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM
 **School of Electrical Engineering and Computer Science**, STOCKHOLM  
 **Doctoral Study in Information and Communication Technology**  
 Specialization: Electronic Systems  
-Title: Protecting Remote FPGAs and IoT Devices from Non-Invasive Physical Attacks  
+Title: Protecting Remote FPGAs and Embedded Devices from Non-Invasive Physical Attacks  
 Supervisor: Prof. Elena Dubrova
 
 **KTH Royal Institute of Technology** *2018 – 2020*  
@@ -125,11 +125,11 @@ Lab Member
 
 **Turkish:** Native language
 
-**English:** IELTS (Overall: 6.0, Listening: 6.0, Reading: 6.5, Writing: 5.0, Speaking: 5.5), TOEFL IBT (Overall: 88, Listening: 27, Reading: 22, Writing: 22, Speaking: 17)
+**English:** IELTS in 2018 (Overall: 6.0, Listening: 6.0, Reading: 6.5, Writing: 5.0, Speaking: 5.5), TOEFL IBT in 2017 (Overall: 88, Listening: 27, Reading: 22, Writing: 22, Speaking: 17)
 
-**French:** DELF B2 Overall: 57.5/100
+**French:** DELF B2 in 2012 (Overall: 57.5/100, Listening: 11/25, Reading: 12.5/25, Writing: 18/25, Speaking: 16/25)
 
-**Swedish:** SFI Course C (roughly corresponds to CEFR A2/A2+), KTH Swedish B1 for Employees
+**Swedish:** SFI Course C in 2021 (roughly corresponds to CEFR A2/A2+), KTH Swedish B2 for Employees in 2024
 
 ### Electronics Engineering & Computer Science
 
@@ -171,7 +171,7 @@ Computer science
 - LaTeX
 
 Programming/scripting languages
-- C, C++, Java, Julia, Python, Matlab, Lisp, Haskell, Bash, PowerShell
+- C, C++, Rust, Java, Julia, Python, Matlab, Lisp, Haskell, Bash, PowerShell
 
 Various other areas I have experimented
 - PCB design using KiCad
@@ -187,6 +187,7 @@ Various other areas I have experimented
 ## PROJECTS
 (From the most recent to the earliest)
 
+- [Go (board game, not the programming language) computer game in Rust](https://github.com/canaknesil/go-game) *(Independent)*
 - [Circuit Disguise: Detecting Malicious Circuits in Cloud FPGAs without IP Disclosure](https://github.com/canaknesil/CircuitDisguise.jl) *(Doctoral Study)*
 - [Near-field EM sensor implementations in FPGA configurable fabric](https://github.com/canaknesil/fpga-em-sensor) *(Doctoral Study)*
 - [Covert antenna implementations on FPGA interconnect](https://github.com/canaknesil/antenna-from-interconnect/) *(Doctoral Study)*
@@ -266,7 +267,7 @@ A subset of my projects can be found [here](https://github.com/canaknesil).
   - Participated to sailing education at Istanbul Sailing Club
   - Officially licensed, intermediate level windsurfer registered with the Turkish Sailing Federation.
 
-- Tennis, Table tennis
+- Tennis, Table tennis, Badminton
   - Table tennis team member in Notre Dame de Sion (high school)
 
 - Winter sports: Skiing, Ice skating
