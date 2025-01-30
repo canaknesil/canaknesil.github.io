@@ -134,33 +134,39 @@ Lab Member
 ### Electronics Engineering & Computer Science
 
 Hardware security
+
 - Power/EM side-channel attacks
   (simple, differential, ML-based, and remote power analysis on FPGAs and microcontrollers)
 - FPGA security
 - Machine learning security
 
 Computer security
+
 - Machine learning security
 - Penetration testing
 - Networking and network security
   
 Hardware design & development
+
 - FPGA design and verification with VHDL and SystemVerilog
   (using Xilinx and Intel (Altera) design tools)
 - Tcl scripting in Xilinx Vivado environment
 - RTL synthesis with Yosys
 - Graph-bases analysis of digital circuits
 
-Embedded systems design & development:
+Embedded systems design & development
+
 - Embedded real-time platform and software development with Nios II soft-processor and MicroC/OS
 - Embedded software development with Linux
 - Embedded software development directly on processor in AVR Assembly, MIPS Assembly, ARM Assembly, C, and C++
 - Fault-tolerant systems design
 
 High-performance computing (HPC)
+
 - Parallel programming with pthread library, MPI, CUDA, and MicroC/OS
 
 Computer science
+
 - Scientific programming
 - Machine Learning (supervised and unsupervised)
 - Proficiency in Linux (personal use, system administration, driver and application development)
@@ -171,9 +177,11 @@ Computer science
 - LaTeX
 
 Programming/scripting languages
+
 - C, C++, Rust, Java, Julia, Python, Matlab, Lisp, Haskell, Bash, PowerShell
 
 Various other areas I have experimented
+
 - PCB design using KiCad
 - Mixed-signal IC design using Cadence Virtuoso
 - Image analysis and computer vision
