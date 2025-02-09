@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Updated on 28 January 2025.
+Updated on 8 February 2025.
 
 # Can AKNESİL
 Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM  
@@ -36,6 +36,8 @@ Vehbi Koç Scholar in 2014 and 2016
 ISTANBUL 
 
 ## PUBLICATIONS
+
+Can Aknesil, Elena Dubrova, Niklas Lindskog, Jakob Sternby, Håkan Englund. "Hybrid Fingerprinting for Effective Detection of Cloned Neural Networks". Accepted to 2025 IEEE 55th International Symposium on Multiple-Valued Logic (ISMVL). 2025.
 
 [Can Aknesil, Elena Dubrova. "Circuit Disguise: Detecting Malicious Circuits in Cloud FPGAs without IP Disclosure". 2024 27th Euromicro Conference on Digital System Design (DSD). 2024.](https://doi.ieeecomputersociety.org/10.1109/DSD64264.2024.00055)
 
