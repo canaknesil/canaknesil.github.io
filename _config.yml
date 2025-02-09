@@ -35,7 +35,7 @@ plugins:
 
 header_pages:
   - index.md
-  - CV.md
+  - cv.html
 
 show_excerpts: true
 #google_analytics: UA-NNNNNNNN-N
