@@ -33,9 +33,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Hide Sass deprecation warnings coming from the minima theme
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
 header_pages:
   - index.md
-  - cv.html
+  - cv-page.md
 
 show_excerpts: true
 #google_analytics: UA-NNNNNNNN-N
